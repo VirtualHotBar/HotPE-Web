@@ -2,6 +2,8 @@ const { execSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
+console.log('Building...');
+
 // 获取当前脚本目录
 const scriptDir = path.resolve(__dirname);
 
@@ -33,3 +35,4 @@ toDeleteDirs.forEach(dir => {
   }
 });
 
+console.log('Build complete.');
