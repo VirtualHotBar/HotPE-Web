@@ -2,6 +2,8 @@ https://hotpe.top/* https://www.hotpe.top/:splat
 
 /API/* https://api.hotpe.top/API/:splat
 
-/HotPE_File/HotSysSetup/OSList.html https://api.hotpe.top/API/HotPE/UjyOSList.ini
+# /HotPE_File/HotSysSetup/OSList.html https://api.hotpe.top/API/HotPE/UjyOSList.ini
 
 /wp-content/uploads/2021/10/cropped-序列-010-1.png /Other/HotPE_logo.png
+
+/HotPE_File/HotSysSetup/OSList.html /Other/HotSysSetup/UjyOSList.ini
