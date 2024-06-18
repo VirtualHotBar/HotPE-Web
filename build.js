@@ -26,6 +26,13 @@ if (fs.existsSync(indexPath)) {
   fs.writeFileSync(indexPath, indexContent, 'utf-8');
 }
 
+// 复制 static 目录下的文件
+const staticDir = path.join(scriptDir, 'static');
+if (fs.existsSync(staticDir)) {
+  fs.cpSync(staticDir, publicDir, { recursive: true });
+}
+
+
 // 删除特定的子目录
 const toDeleteDirs = ['categories', 'links', 'xml', 'tags'];
 toDeleteDirs.forEach(dir => {
