@@ -2,15 +2,18 @@
   "rewrites": [
     {
       "source": "/API/:splat",
-      "destination": "https://api.hotpe.top/API/:splat"
+      "destination": "https://api.hotpe.top/API/:splat",
+      "permanent": true
     },
     {
       "source": "/HotPE_File/HotSysSetup/OSList.html",
-      "destination": "http://rapi.sysri.cn/HotSysSetup/UjyOSList.ini"
+      "destination": "http://rapi.sysri.cn/HotSysSetup/UjyOSList.ini",
+      "permanent": true
     },
     {
       "source": "/wp-content/(.*).png",
-      "destination": "/Other/HotPE_logo.png"
+      "destination": "/Other/HotPE_logo.png",
+      "permanent": true
     }
   ]
 }
