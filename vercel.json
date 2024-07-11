@@ -3,17 +3,17 @@
     {
       "source": "/API/:splat",
       "destination": "https://api.hotpe.top/API/:splat",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/HotPE_File/HotSysSetup/OSList.html",
       "destination": "http://rapi.sysri.cn/HotSysSetup/UjyOSList.ini",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/wp-content/(.*).png",
       "destination": "/Other/HotPE_logo.png",
-      "permanent": true
+     "statusCode": 301
     }
   ]
 }
