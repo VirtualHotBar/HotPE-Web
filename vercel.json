@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/API/(.*)",
+      "source": "/API/:splat",
       "destination": "https://api.hotpe.top/API/:splat"
     },
     {
