@@ -1,8 +1,11 @@
 {
-  "version": 2,
   "rewrites": [
     {
-      "source": "/API/:splat*",
+      "source": "https://hotpe.top/(.*)",
+      "destination": "https://www.hotpe.top/:splat"
+    },
+    {
+      "source": "/API/(.*)",
       "destination": "https://api.hotpe.top/API/:splat"
     },
     {
@@ -10,7 +13,7 @@
       "destination": "http://rapi.sysri.cn/HotSysSetup/UjyOSList.ini"
     },
     {
-      "source": "/wp-content/:path*",
+      "source": "/wp-content/(.*).png",
       "destination": "/Other/HotPE_logo.png"
     }
   ]
