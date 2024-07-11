@@ -2,10 +2,6 @@
   "version": 2,
   "rewrites": [
     {
-      "source": "/*",
-      "destination": "https://www.hotpe.top/:splat"
-    },
-    {
       "source": "/API/:splat*",
       "destination": "https://api.hotpe.top/API/:splat"
     },
