@@ -6,8 +6,8 @@
       "statusCode": 301
     },
         {
-      "source": "/API/:splat/",
-      "destination": "https://api.hotpe.top/API/:splat",
+      "source": "/API/:splat*/",
+      "destination": "https://api.hotpe.top/API/:splat*/",
       "statusCode": 301
     },
     {
