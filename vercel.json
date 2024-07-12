@@ -7,7 +7,7 @@
     },
         {
       "source": "/API/:splat/",
-      "destination": "https://api.hotpe.top/API/:splat/",
+      "destination": "https://api.hotpe.top/API/:splat",
       "statusCode": 301
     },
     {
