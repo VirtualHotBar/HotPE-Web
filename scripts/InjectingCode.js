@@ -34,6 +34,14 @@ hexo.extend.injector.register('head_end', `
 //bootstrap-icons
 //hexo.extend.injector.register('head_end', '<link href="https://cdn.bootcdn.net/ajax/libs/bootstrap-icons/1.10.2/font/bootstrap-icons.css" rel="stylesheet">', 'default');
 
+//Clarity统计
+hexo.extend.injector.register('head_end', `<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ne5qq3eolp");
+</script>`, 'default');
 
 //51la统计
 hexo.extend.injector.register('head_end', '<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script><script>LA.init({id: "JfwitpGwrH9j4PMK",ck: "JfwitpGwrH9j4PMK"})</script>', 'default');
@@ -83,7 +91,6 @@ hexo.extend.injector.register('body_end', `<footer style="background: var(--boar
             <a href="https://www.pandadatech.cn/" target="_blank" class="class-link"  rel="noopener" > PanDaTech's Blog</a> |
             <a href="https://www.rsnocsi.cn/" target="_blank" class="class-link"  rel="noopener" > Abyss-博客 </a> |
             <a href="https://itlog.vip/" target="_blank" class="class-link"  rel="noopener" > 挨踢日记 </a>|
-            <a href="https://walog.top/" target="_blank" class="class-link"  rel="noopener" > WaLog </a>|
             <a href="https://www.letsdown.cn/" target="_blank" class="class-link"  rel="noopener" >Let's Down</a>
         </p>
         </div>
