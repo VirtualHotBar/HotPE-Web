@@ -13,7 +13,7 @@ title: 下载
 
 <br/>
 
-<button class="button" onclick="downAndOpenThanksToDocsModal('https://api.hotpe.top/API/HotPE/ToLink?id=down');">立即下载</button><button style="margin-left:50px;" class="button" onclick="window.open ('https://api.hotpe.top/API/HotPE/ToLink?id=hpm-down-site', '_blank');">下载模块</button><button class="button" style="margin-left:50px;" onclick="window.open ( 'https://winnew.cn/', '_blank');">原版系统</button>
+<button class="button" onclick="downAndOpenThanksToDocsModal('https://api.hotpe.top/API/HotPE/ToLink/?id=down');">立即下载</button><button style="margin-left:50px;" class="button" onclick="window.open ('https://api.hotpe.top/API/HotPE/ToLink/?id=hpm-down-site', '_blank');">下载模块</button><button class="button" style="margin-left:50px;" onclick="window.open ( 'https://winnew.cn/', '_blank');">原版系统</button>
 
 
 
@@ -22,7 +22,7 @@ title: 下载
 
 <p>客户端版本:<span id="ClientVer">正在获取...</span><!-- 客户端大小:<span id="ClientSize">正在获取...</span> -->   PE版本:<span id="HotPEVer">正在获取...</span> </p>
 <p ><span ><em>使用HotPE及其相关功能表示您已经阅读并同意<a href="https://docs.hotpe.top/overview/contract.html" target="_blank"  class="class-link"  rel="noopener">HotPE用户协议</a></em></span></p>
-<p ><a onclick="downAndOpenThanksToDocsModal( 'https://api.hotpe.top/API/HotPE/ToLink?id=down-bak1');"  class="class-link">备用下载1</a>      <a onclick="downAndOpenThanksToDocsModal ( 'https://api.hotpe.top/API/HotPE/ToLink?id=down-bak2');" class="class-link">备用下载2</a>      <a onclick="downAndOpenThanksToDocsModal ( 'https://api.hotpe.top/API/HotPE/ToLink?id=iso-down');" class="class-link">下载ISO镜像</a>      <span class="ant-tag ant-tag-blue" style="color: #008080;"><a onclick="downAndOpenThanksToDocsModal ( 'https://api.hotpe.top/API/HotPE/ToLink?id=down-old');"  target="_blank"  class="class-link"  rel="noopener">旧版安装器</a></span>      <span class="ant-tag ant-tag-blue" style="color: #008080;"><a href="https://api.hotpe.top/API/HotPE/ToLink?id=update-log" target="_blank"  class="class-link"  rel="noopener">更新日志</a></p>
+<p ><a onclick="downAndOpenThanksToDocsModal( 'https://api.hotpe.top/API/HotPE/ToLink/?id=down-bak1');"  class="class-link">备用下载1</a>      <a onclick="downAndOpenThanksToDocsModal ( 'https://api.hotpe.top/API/HotPE/ToLink/?id=down-bak2');" class="class-link">备用下载2</a>      <a onclick="downAndOpenThanksToDocsModal ( 'https://api.hotpe.top/API/HotPE/ToLink/?id=iso-down');" class="class-link">下载ISO镜像</a>      <span class="ant-tag ant-tag-blue" style="color: #008080;"><a onclick="downAndOpenThanksToDocsModal ( 'https://api.hotpe.top/API/HotPE/ToLink/?id=down-old');"  target="_blank"  class="class-link"  rel="noopener">旧版安装器</a></span>      <span class="ant-tag ant-tag-blue" style="color: #008080;"><a href="https://api.hotpe.top/API/HotPE/ToLink/?id=update-log" target="_blank"  class="class-link"  rel="noopener">更新日志</a></p>
 
 </div>
 
