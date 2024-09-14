@@ -44,7 +44,17 @@ hexo.extend.injector.register('head_end', `<script type="text/javascript">
 </script>`, 'default');
 
 //51la统计
-hexo.extend.injector.register('head_end', '<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script><script>LA.init({id: "JfwitpGwrH9j4PMK",ck: "JfwitpGwrH9j4PMK"})</script>', 'default');
+hexo.extend.injector.register('head_end', `
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?407e6c7b912ca620b24fc8ffcd41a43c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+`, 'default');
 
 //底部
 hexo.extend.injector.register('body_end', `<footer style="background: var(--board-bg-color);margin: 0px 0px 0px 0px;text-align: center;" id="colophon" class="site-footer" role="contentinfo">
@@ -80,13 +90,13 @@ hexo.extend.injector.register('body_end', `<footer style="background: var(--boar
         <p style="text-align: center">Weblog:
             <a href="https://blog.hotpe.top/" target="_blank" class="class-link"  rel="noopener" >VirtualHotBar</a> |
             <a href="https://www.mefcl.com/" target="_blank" class="class-link"  rel="noopener" > Mefcl's blog</a> |
-            <a href="https://www.51cxsoft.com/" target="_blank" class="class-link"  rel="noopener" > 优捷易</a> |
             <a href="https://www.puresys.net" target="_blank" class="class-link"  rel="noopener" > Puresys </a> |
             <a href="https://www.winos.me/" target="_blank" class="class-link"  rel="noopener" > WINOS </a> |
             <a href="https://www.coolexe.com/" target="_blank" class="class-link"  rel="noopener" > 阿酷杂货铺</a> |
             <a href="https://yukaidi.top/" target="_blank" class="class-link"  rel="noopener" > yukaidi的小站</a> |
             <a href="https://myzwq.com/" target="_blank" class="class-link"  rel="noopener" > 初念瑾-分享站 </a>|
             <a href="https://www.lvruanhome.com/" target="_blank" class="class-link"  rel="noopener" > 绿软之家 </a>|
+            <a href="https://www.51cxsoft.com/" target="_blank" class="class-link"  rel="noopener" > 优捷易</a> |
             <a href="https://ruanjianya.net/" target="_blank" class="class-link"  rel="noopener" > 软件鸭 </a> | 
             <a href="https://www.pandadatech.cn/" target="_blank" class="class-link"  rel="noopener" > PanDaTech's Blog</a> |
             <a href="https://www.rsnocsi.cn/" target="_blank" class="class-link"  rel="noopener" > Abyss-博客 </a> |
