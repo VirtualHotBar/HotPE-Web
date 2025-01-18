@@ -77,29 +77,27 @@ hexo.extend.injector.register('body_end', `<footer style="background: var(--boar
             <a href="https://pan.hotpe.top/" target="_blank" class="class-link"  rel="noopener" > HotPan</a> |
             <a href="https://home.edgeless.top/" target="_blank" class="class-link"  rel="noopener" > Edgeless</a> |
             <a href="https://firpe.cn/" target="_blank" class="class-link"  rel="noopener" > FirPE</a> |
-            <a href="https://windsys.win" target="_blank" class="class-link"  rel="noopener" > Windsys</a> |
             <a href="https://www.angel-pe.cn" target="_blank" class="class-link"  rel="noopener" > AngelPE</a> |
-            <a href="http://cowpe.myzwq.cn/" target="_blank" class="class-link"  rel="noopener" > CowPE</a> |
+            <a href="https://cowpe.top/" target="_blank" class="class-link"  rel="noopener" > CowPE</a> |
             <a href="https://glasspe.cn/" target="_blank" class="class-link"  rel="noopener" > GlassPE</a> |
             <a href="https://dawnpe.com" target="_blank" class="class-link"  rel="noopener" > DawnPE</a> |
-            <a href="https://glow.lovepc.team/" target="_blank" class="class-link"  rel="noopener nofollow" > GlowPE</a> |
+            <a href="https://pe.studio.000708.xyz/" target="_blank" class="class-link"  rel="noopener nofollow" > GlowPE</a> |
             <a href="https://www.win-compe.top/" target="_blank" class="class-link"  rel="noopener noreferrer nofollow" > ComPE</a> |
-            <a href="https://ldtstore.com.cn/ldtools/" target="_blank" class="class-link"  rel="noopener" > LDTools </a>
+            <a href="https://tool.pc.wiki/" target="_blank" class="class-link"  rel="noopener" > LDTools </a>
             <br>
         </p>
         <p style="text-align: center">Weblog:
             <a href="https://blog.hotpe.top/" target="_blank" class="class-link"  rel="noopener" >VirtualHotBar</a> |
-            <a href="https://www.mefcl.com/" target="_blank" class="class-link"  rel="noopener" > Mefcl's blog</a> |
+            <a href="https://www.mefcl.com/" target="_blank" class="class-link"  rel="noopener" > Mefcl</a> |
             <a href="https://www.puresys.net" target="_blank" class="class-link"  rel="noopener" > Puresys </a> |
             <a href="https://www.winos.me/" target="_blank" class="class-link"  rel="noopener" > WINOS </a> |
             <a href="https://www.coolexe.com/" target="_blank" class="class-link"  rel="noopener" > 阿酷杂货铺</a> |
-            <a href="https://yukaidi.top/" target="_blank" class="class-link"  rel="noopener" > yukaidi的小站</a> |
-            <a href="https://myzwq.com/" target="_blank" class="class-link"  rel="noopener" > 初念瑾-分享站 </a>|
-            <a href="https://www.lvruanhome.com/" target="_blank" class="class-link"  rel="noopener" > 绿软之家 </a>|
+            <a href="https://yukaidi.top/" target="_blank" class="class-link"  rel="noopener" > Yukaidi</a> |
+            <a href="https://cnj.vin/" target="_blank" class="class-link"  rel="noopener" > 初念瑾 </a>|
             <a href="https://www.51cxsoft.com/" target="_blank" class="class-link"  rel="noopener" > 优捷易</a> |
             <a href="https://ruanjianya.net/" target="_blank" class="class-link"  rel="noopener" > 软件鸭 </a> | 
-            <a href="https://www.pandadatech.cn/" target="_blank" class="class-link"  rel="noopener" > PanDaTech's Blog</a> |
-            <a href="https://www.rsnocsi.cn/" target="_blank" class="class-link"  rel="noopener" > Abyss-博客 </a> |
+            <a href="https://www.pandadatech.cn/" target="_blank" class="class-link"  rel="noopener" > PanDaTech</a> |
+            <a href="https://www.rsnocsi.cn/" target="_blank" class="class-link"  rel="noopener" > Abyss </a> |
             <a href="https://itlog.vip/" target="_blank" class="class-link"  rel="noopener" > 挨踢日记 </a>|
             <a href="https://www.letsdown.cn/" target="_blank" class="class-link"  rel="noopener" >Let's Down</a>
         </p>
@@ -112,12 +110,7 @@ hexo.extend.injector.register('body_end', `<footer style="background: var(--boar
         <div style="border-top: 1px solid rgba(0, 0, 0, 0.1);padding: 10px 10px 10px;text-align: center;">
                 <a href="https://beian.miit.gov.cn/" target="_blank" class="class-link"  rel="noopener" >蜀ICP备2023001640号-1</a>
                 <br/>
-                © 2019-Present <a href="https://blog.hotpe.top/" target="_blank" class="class-link"  rel="noopener" >VirtualHotBar</a>
-<!--                 <br/>
-                <br/>
-                <a href="https://myzwq.com/" target="_blank"  rel="noopener" ><strong>HotPE服务器赞助商 : 初念瑾</strong></a>  -->
-                
-                
+                © 2019-Present <a href="https://blog.hotpe.top/" target="_blank" class="class-link"  rel="noopener" >VirtualHotBar</a>            
         </div>
 </div>
 </footer>`, 'default');
