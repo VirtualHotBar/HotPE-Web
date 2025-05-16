@@ -77,6 +77,7 @@ hexo.extend.injector.register('body_end', `<footer style="background: var(--boar
             <a href="https://pan.hotpe.top/" target="_blank" class="class-link"  rel="noopener" > HotPan</a> |
             <a href="https://home.edgeless.top/" target="_blank" class="class-link"  rel="noopener" > Edgeless</a> |
             <a href="https://firpe.cn/" target="_blank" class="class-link"  rel="noopener" > FirPE</a> |
+            <a href="https://kuerpe.com/" target="_blank" class="class-link"  rel="noopener" > KuerPE</a> |
             <a href="https://www.angel-pe.cn" target="_blank" class="class-link"  rel="noopener" > AngelPE</a> |
             <a href="https://cowpe.top/" target="_blank" class="class-link"  rel="noopener" > CowPE</a> |
             <a href="https://glasspe.cn/" target="_blank" class="class-link"  rel="noopener" > GlassPE</a> |
