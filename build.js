@@ -14,8 +14,8 @@ if (fs.existsSync(publicDir)) {
 }
 
 // 清理 Hexo 的旧文件并生成新文件
-execSync('hexo clean', { stdio: 'inherit' });
-execSync('hexo g', { stdio: 'inherit' });
+execSync('npx hexo clean', { stdio: 'inherit' });
+execSync('npx hexo g', { stdio: 'inherit' });
 
 // 修改 public/index.html 文件中的内容
 const indexPath = path.join(publicDir, 'index.html');
