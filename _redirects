@@ -1,0 +1,15 @@
+/HotPE_File/API/HotPE/GetHPMList/    http://api.hotpe.top/API/HotPE/GetHPMList/    301
+
+# API 重定向（通用路径）
+/API/*    https://api.hotpe.top/API/:splat    301
+
+# API 重定向（带尾部斜杠的路径）
+/API/*/    https://api.hotpe.top/API/:splat/    301
+
+# 静态文件重定向
+/HotPE_File/HotSysSetup/OSList.html    http://rapi.sysri.cn/HotSysSetup/UjyOSList.ini    301
+
+/HotPE_File/API/HotPE/GetHPMList/    http://api.hotpe.top/API/HotPE/GetHPMList/    301
+
+# 图片路径替换（兼容所有子路径）
+/wp-content/*.png    /Other/HotPE_logo.png    301
