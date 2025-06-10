@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/API/:splat*",
-      "destination": "https://api.hotpe.top/API/:splat*",
+      "source": "/API/*",
+      "destination": "https://api.hotpe.top/API/:splat",
       "statusCode": 301
     },
     {
@@ -11,7 +11,7 @@
       "statusCode": 301
     },
     {
-      "source": "/wp-content/(.*).png",
+      "source": "/wp-content/*.png",
       "destination": "/Other/HotPE_logo.png",
      "statusCode": 301
     }
