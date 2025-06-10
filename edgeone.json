@@ -9,7 +9,9 @@
       "source": "/HotPE_File/HotSysSetup/OSList.html",
       "destination": "http://rapi.sysri.cn/HotSysSetup/UjyOSList.ini",
       "statusCode": 301
-    },
+    }
+  ],
+  "rewrites":[
     {
       "source": "/wp-content/*.png",
       "destination": "/Other/HotPE_logo.png",
