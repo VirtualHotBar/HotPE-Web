@@ -17,5 +17,11 @@
       "destination": "/Other/HotPE_logo.png",
      "statusCode": 301
     }
+  ],
+   "caches": [
+    {
+      "source": "/*",
+      "cacheTtl": 604800
+    }
   ]
 }
