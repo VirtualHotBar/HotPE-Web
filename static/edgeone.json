@@ -1,5 +1,5 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/API/*",
       "destination": "https://api.hotpe.top/API/:splat",
@@ -9,11 +9,30 @@
       "source": "/HotPE_File/HotSysSetup/OSList.html",
       "destination": "http://rapi.sysri.cn/HotSysSetup/UjyOSList.ini",
       "statusCode": 301
-    },
+    }
+  ],
+  "rewrites":[
     {
       "source": "/wp-content/*.png",
       "destination": "/Other/HotPE_logo.png",
      "statusCode": 301
+    }
+  ],
+   "caches": [
+    {
+      "source": "/*",
+      "cacheTtl": 604800
+    }
+  ],
+  "headers": [
+    {
+      "source": "/*",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=2592000"
+          }
+        ]
     }
   ]
 }
