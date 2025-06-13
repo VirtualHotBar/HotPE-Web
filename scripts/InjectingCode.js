@@ -45,15 +45,8 @@ hexo.extend.injector.register('head_end', `<script type="text/javascript">
 
 //51la统计
 hexo.extend.injector.register('head_end', `
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?407e6c7b912ca620b24fc8ffcd41a43c";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
+<script charset="UTF-8" id="MXA_COLLECT" src="//mxana.tacool.com/sdk.js"></script>
+<script>MXA.init({ id: "c1-D65yy2xb" })</script>
 `, 'default');
 
 //底部
