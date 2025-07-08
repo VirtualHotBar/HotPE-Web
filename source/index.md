@@ -4,7 +4,7 @@ index_img: [https://i.vhbs.top/i/p/1/6677bf289e7ce.png]
 ---
 
 <div>
-    <img style="height: 0;width: 0;" src="https://i.vhbs.top/i/p/1/6677bf289e7ce.png"> 
+    <img style="height: 0;width: 0;" src="https://p1.hotpe.top/i/p/1/686d259fb565d.png"> 
 </div>
 
 <div align="center">
@@ -24,23 +24,23 @@ index_img: [https://i.vhbs.top/i/p/1/6677bf289e7ce.png]
 
 <h6><strong>*说明：下面截图演示的只是部分功能（包括HotPE模块，自带工具）</strong></h6>
 
-<p><img src="https://pic2.imgdb.cn/item/6456ee550d2dde5777b15144.png" /></p>
+<p><img src="https://p1.hotpe.top/i/p/1/686d25b9d4675.png" /></p>
 <p>初始资源占用情况，2GB内存也能完美使用。</p>
 <br/>
 
-<p><img src="https://pic2.imgdb.cn/item/6456efb50d2dde5777b2454f.png" /></p>
+<p><img src="https://p1.hotpe.top/i/p/1/686d25cc42cf6.png" /></p>
 <div align="center">加载部分模块的桌面。丰富的HotPE模块包含上百款热门软件和工具，PE自带模块商店在线下载模块。欢迎制作模块，丰富模块生态，可以说模块是万能的。</div>
 <br/>
 
-<p><img src="https://pic.imgdb.cn/item/62dbd86df54cd3f937b09941.jpg" /></p>
+<p><img src="https://p1.hotpe.top/i/p/1/686d25e151d14.png" /></p>
 <p>支持切换主题，自定义壁纸。随机壁纸、随机风景壁纸(在线)，必应每日壁纸(在线)。</p>
 <br/>
 
-<p><img src="https://pic.imgdb.cn/item/62dc8da3f54cd3f937a8f3ca.jpg" /></p>
+<p><img src="https://p1.hotpe.top/i/p/1/686d25fd66cda.png" /></p>
 <p>支持MSI可以直接安装运行库</p>
 <br/>
 
-<p><img src="https://pic.imgdb.cn/item/627e86b80947543129178a90.jpg" /></p>
+<p><img src="https://p1.hotpe.top/i/p/1/686d2613a4237.png" /></p>
 <p>可以安装显卡驱动，还可以安装运行库，就可以在PE里玩游戏</p>
 <br/>
 
