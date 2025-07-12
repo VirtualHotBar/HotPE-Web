@@ -88,6 +88,7 @@ hexo.extend.injector.register('body_end', `<footer style="background: var(--boar
             <a href="https://www.coolexe.com/" target="_blank" class="class-link"  rel="noopener" > 阿酷杂货铺</a> |
             <a href="https://yukaidi.top/" target="_blank" class="class-link"  rel="noopener" > Yukaidi</a> |
             <a href="https://www.cnjfx.com/" target="_blank" class="class-link"  rel="noopener" > 初念瑾 </a>|
+            <a href="https://www.gslsoft.com/" target="_blank" class="class-link"  rel="noopener" > 高速下载站 </a> | 
             <a href="https://www.51cxsoft.com/" target="_blank" class="class-link"  rel="noopener" > 优捷易</a> |
             <a href="https://ruanjianya.net/" target="_blank" class="class-link"  rel="noopener" > 软件鸭 </a> | 
             <a href="https://www.pandadatech.cn/" target="_blank" class="class-link"  rel="noopener" > PanDaTech</a> |
