@@ -23,9 +23,9 @@ title: 捐赠
 </thead>
 <tbody>
 <tr >
-<td ><img class="aligncenter" src="https://p1.hotpe.top/i/PicGo/202302031716843.jpg" /></td>
-<td ><img class="aligncenter" src="https://p1.hotpe.top/i/PicGo/202302031715348.jpg" /></td>
-<td ><img class="aligncenter" src="https://p1.hotpe.top/i/PicGo/202302031715361.jpg" /></td>
+<td ><img class="aligncenter" src="//sc.sysri.cn/i/PicGo/202302031716843.jpg" /></td>
+<td ><img class="aligncenter" src="//sc.sysri.cn/i/PicGo/202302031715348.jpg" /></td>
+<td ><img class="aligncenter" src="//sc.sysri.cn/i/PicGo/202302031715361.jpg" /></td>
 </tr>
 </tbody>
 </table>
