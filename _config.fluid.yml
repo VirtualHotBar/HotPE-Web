@@ -1056,9 +1056,9 @@ static_prefix:
 
   github_markdown: https://sc.sysri.cn/npm/github-markdown-css@4.0.0/
 
-  jquery: https://sc.sysri.cn/npm/jquery@3.6.0/
+  jquery: https://sc.sysri.cn/npm/jquery@3.6.0/dist/
 
-  bootstrap: https://sc.sysri.cn/npm/bootstrap@4.6.1/
+  bootstrap: https://sc.sysri.cn/npm/bootstrap@4.6.1/dist/
 
   prismjs: https://sc.sysri.cn/npm/prism@1.28.0/
 
