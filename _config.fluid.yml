@@ -1060,9 +1060,9 @@ static_prefix:
 
   bootstrap: https://sc.sysri.cn/npm/bootstrap@4.6.1/dist/
 
-  prismjs: https://sc.sysri.cn/npm/prism@1.28.0/
+  prismjs: https://lib.baomitu.com/prism@1.28.0/
 
-  tocbot: https://sc.sysri.cn/npm/tocbot@4.18.2/
+  tocbot: https://sc.sysri.cn/npm/tocbot@4.18.2/dist/
 
   typed: https://sc.sysri.cn/npm/typed.js@2.0.12/
 
