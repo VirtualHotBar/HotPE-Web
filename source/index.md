@@ -47,7 +47,7 @@ index_img: [https://sc.sysri.cn/i/p/1/686d259fb565d.png]
 <div align="center">模块功能和远程工具箱。丰富的模块系统包含上百款热门软件和工具，可在线获取模块。欢迎一同完善模块生态，打包自己的模块或在其他PE里加入模块系统。</div>
 <br/>
 
-<p><img src="//sc.sysri.cn/i/p/1/68e9210687b57.png" /></p>
+<p><img src="//sc.sysri.cn/i/p/1/68ea5c8a3fd04.png" /></p>
 <p>可以安装显卡驱动及运行库，配合模块系统，在PE中办公娱乐不是梦。</p>
 <br/>
 
