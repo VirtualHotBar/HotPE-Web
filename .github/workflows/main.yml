@@ -20,11 +20,10 @@ jobs:
         node-version: 24
     - name: 安装依赖 ⚙️
       run: |
-        npm i pnpm -g
-        pnpm i
+        npm i
     - name: 打包 🏗️
       run: |
-        pnpm run build
+        npm run build
     - name: 部署 🚀
       uses: JamesIves/github-pages-deploy-action@v4
       with:
