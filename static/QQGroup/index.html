@@ -61,6 +61,13 @@
       cursor: not-allowed;
       opacity: 0.6;
     }
+
+    /* 补充禁用按钮的点击屏蔽 */
+    .btn.disabled,
+    .btn[disabled] {
+      pointer-events: none;
+      cursor: not-allowed;
+    }
   </style>
 
 </head>
@@ -91,8 +98,8 @@
                 <span class="badge bg-info text-dark">500人</span>
                 <span class="badge bg-warning text-dark">已满</span>
               </p>
-              <a href="//sc.sysri.cn/i/p/1/65bb60671d52d.png" target="_blank" class="btn btn-primary">二维码</a>
-              <a href="//jq.qq.com/?_wv=1027&k=abPKFZhj" target="_blank" class="btn btn-primary">点击加入</a>
+              <a href="//sc.sysri.cn/i/p/1/65bb60671d52d.png" target="_blank" class="btn btn-primary disabled" disabled aria-disabled="true">二维码</a>
+              <a href="//jq.qq.com/?_wv=1027&k=abPKFZhj" target="_blank" class="btn btn-primary disabled" disabled aria-disabled="true">点击加入</a>
             </div>
           </div>
         </div>
@@ -105,8 +112,8 @@
                 <span class="badge bg-info text-dark">2000人</span>
                 <span class="badge bg-warning text-dark">已满</span>
               </p>
-              <a href="//sc.sysri.cn/i/p/1/65bb6023f33a3.png" target="_blank" class="btn btn-primary">二维码</a>
-              <a href="//jq.qq.com/?_wv=1027&k=nEAhWMvF" target="_blank" class="btn btn-primary">点击加入</a>
+              <a href="//sc.sysri.cn/i/p/1/65bb6023f33a3.png" target="_blank" class="btn btn-primary disabled" disabled aria-disabled="true">二维码</a>
+              <a href="//jq.qq.com/?_wv=1027&k=nEAhWMvF" target="_blank" class="btn btn-primary disabled" disabled aria-disabled="true">点击加入</a>
             </div>
           </div>
         </div>
@@ -122,8 +129,8 @@
                 <span class="badge bg-info text-dark">2000人</span>
                 <span class="badge bg-warning text-dark">已满</span>
               </p>
-              <a href="//sc.sysri.cn/i/p/1/673b404a041c9.png" target="_blank" class="btn btn-primary">二维码</a>
-              <a href="//qm.qq.com/q/hYC99pCchO" target="_blank" class="btn btn-primary">点击加入</a>
+              <a href="//sc.sysri.cn/i/p/1/673b404a041c9.png" target="_blank" class="btn btn-primary disabled" disabled aria-disabled="true">二维码</a>
+              <a href="//qm.qq.com/q/hYC99pCchO" target="_blank" class="btn btn-primary disabled" disabled aria-disabled="true">点击加入</a>
             </div>
           </div>
         </div>
@@ -156,9 +163,9 @@
 
 <div class="footer">
   <div style="border-top: 1px solid rgba(0, 0, 0, 0.1);padding: 10px 10px 10px;text-align: center;">
-      <a href="https:////beian.miit.gov.cn/" target="_blank" class="class-link" rel="noopener">蜀ICP备2023001640号-1</a>
+      <a href="https://beian.miit.gov.cn/" target="_blank" class="class-link" rel="noopener">蜀ICP备2023001640号-1</a>
     <br>
-    © 2019-Present <a class="class-link" target="_blank" href="https:////blog.hotpe.top/">VirtualHotBar</a>
+    © 2019-Present <a class="class-link" target="_blank" href="https://blog.hotpe.top/">VirtualHotBar</a>
   </div>
 </div>
 
